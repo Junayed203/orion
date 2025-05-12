@@ -1,0 +1,24 @@
+/* Reset some basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  padding: 20px;
+}
+
+/* Heading styles */
+h1 {
+  font-size: 2rem;
+  color: #007bff;
+}
+
+/* Button styles */
+button {
+ padding: 10px 20}
